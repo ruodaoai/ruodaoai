@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none" role="img" aria-label="开源可审计">
+  <g stroke="#C8442B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 13 7 22l10 9"/>
+    <path d="m27 13 10 9-10 9"/>
+    <path d="M25.5 10.5 18.5 33.5" stroke-opacity="0.4"/>
+  </g>
+</svg>

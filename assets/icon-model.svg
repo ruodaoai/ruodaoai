@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none" role="img" aria-label="模型由你指定">
+  <g stroke="#C8442B" stroke-width="2.4" stroke-linecap="round">
+    <path d="M7 12h30" stroke-opacity="0.32"/>
+    <path d="M7 22h30" stroke-opacity="0.32"/>
+    <path d="M7 32h30" stroke-opacity="0.32"/>
+  </g>
+  <circle cx="27" cy="12" r="3.8" fill="#C8442B"/>
+  <circle cx="15" cy="22" r="3.8" fill="#C8442B"/>
+  <circle cx="31" cy="32" r="3.8" fill="#C8442B"/>
+</svg>
