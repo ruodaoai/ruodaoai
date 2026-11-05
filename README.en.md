@@ -27,88 +27,19 @@ Local-first Windows desktop products and an open-source plugin ecosystem.
 
 ## What we believe
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<div align="center">
-<img src="assets/icon-local.svg" width="38" alt="">
-<h3>Data stays local</h3>
-<p>Documents, recordings and browsing history are written to a local database and work offline. No accounts, no “synced to the cloud”.</p>
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<img src="assets/icon-model.svg" width="38" alt="">
-<h3>Bring your own model</h3>
-<p>Use your own API key or a local Ollama instance. Content only goes to the service you choose, never through Ruodao servers.</p>
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<img src="assets/icon-open.svg" width="38" alt="">
-<h3>Open and auditable</h3>
-<p>Every repository is MIT licensed with no hidden cloud dependency, including the security-sensitive code.</p>
-</div>
-</td>
-</tr>
-</table>
+| <img src="assets/icon-local.svg" width="34" alt=""> | <img src="assets/icon-model.svg" width="34" alt=""> | <img src="assets/icon-open.svg" width="34" alt=""> |
+| :---: | :---: | :---: |
+| **Data stays local** | **Bring your own model** | **Open and auditable** |
+| Documents, recordings and browsing history are written to a local database and work offline. No accounts, no “synced to the cloud”. | Use your own API key or a local Ollama instance. Content only goes to the service you choose, never through Ruodao servers. | Every repository is MIT licensed with no hidden cloud dependency, including the security-sensitive code. |
 
 ## Flagship products
 
-<table width="100%">
-<thead>
-<tr>
-<th width="56%" align="left">Product</th>
-<th width="44%" align="center">Preview</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td width="56%" valign="middle">
-<h3>Ruodao Office <sub>若道办公</sub></h3>
-<p>Docs, sheets, a PDF toolbox, linked notes and batch format conversion in one quiet workspace. Bilingual UI, no paywalled export.</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-office">Repository</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-office/releases/latest">Download</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-office"><img src="assets/screenshots/office.png" width="100%" alt="Ruodao Office workspace"></a>
-</td>
-</tr>
-<tr>
-<td width="56%" valign="middle">
-<h3>Ruodao Guard <sub>若道安全卫士</sub></h3>
-<p>System health check, malware scanning, junk cleanup, software manager, driver management, speed center and system repair. No kernel driver, no background daemon.</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-guard-desktop">Repository</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-guard-desktop/releases/latest">Download</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-guard-desktop"><img src="assets/screenshots/guard.png" width="100%" alt="Ruodao Guard health report"></a>
-</td>
-</tr>
-<tr>
-<td width="56%" valign="middle">
-<h3>Ruodao Remote <sub>若道远程</sub></h3>
-<p>Account-free remote desktop for Windows: a 9-digit code plus a 10-character key, end-to-end encrypted WebRTC, with self-hosted signaling and shared servers.</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-remote">Repository</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-remote/releases/latest">Download</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-remote"><img src="assets/screenshots/remote.png" width="100%" alt="Ruodao Remote connection screen"></a>
-</td>
-</tr>
-<tr>
-<td width="56%" valign="middle">
-<h3>Ruodao Browser <sub>若道浏览器</sub></h3>
-<p>An AI desktop browser built on Electron and Chromium, with the Ruodao AI sidebar for summarizing, explaining, translating and rewriting the page you are on, plus isolated multi-profile environments.</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-browser">Repository</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-browser/releases/latest">Download</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-browser"><img src="assets/screenshots/browser.png" width="100%" alt="Ruodao Browser AI sidebar"></a>
-</td>
-</tr>
-</tbody>
-</table>
+| Product | Preview |
+| :--- | :---: |
+| <br>**Ruodao Office** <sub>若道办公</sub><br><br>Docs, sheets, a PDF toolbox, linked notes and batch format conversion in one quiet workspace. Bilingual UI, no paywalled export.<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[Repository](https://github.com/ruodaoai/ruodao-office) &nbsp;·&nbsp; [Download](https://github.com/ruodaoai/ruodao-office/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-office"><img src="assets/screenshots/office.png" width="380" alt="Ruodao Office workspace"></a> |
+| <br>**Ruodao Guard** <sub>若道安全卫士</sub><br><br>System health check, malware scanning, junk cleanup, software manager, driver management, speed center and system repair. No kernel driver, no background daemon.<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[Repository](https://github.com/ruodaoai/ruodao-guard-desktop) &nbsp;·&nbsp; [Download](https://github.com/ruodaoai/ruodao-guard-desktop/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-guard-desktop"><img src="assets/screenshots/guard.png" width="380" alt="Ruodao Guard health report"></a> |
+| <br>**Ruodao Remote** <sub>若道远程</sub><br><br>Account-free remote desktop for Windows: a 9-digit code plus a 10-character key, end-to-end encrypted WebRTC, with self-hosted signaling and shared servers.<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[Repository](https://github.com/ruodaoai/ruodao-remote) &nbsp;·&nbsp; [Download](https://github.com/ruodaoai/ruodao-remote/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-remote"><img src="assets/screenshots/remote.png" width="380" alt="Ruodao Remote connection screen"></a> |
+| <br>**Ruodao Browser** <sub>若道浏览器</sub><br><br>An AI desktop browser built on Electron and Chromium, with the Ruodao AI sidebar for summarizing, explaining, translating and rewriting the page you are on, plus isolated multi-profile environments.<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[Repository](https://github.com/ruodaoai/ruodao-browser) &nbsp;·&nbsp; [Download](https://github.com/ruodaoai/ruodao-browser/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-browser"><img src="assets/screenshots/browser.png" width="380" alt="Ruodao Browser AI sidebar"></a> |
 
 ## Plugin ecosystem
 

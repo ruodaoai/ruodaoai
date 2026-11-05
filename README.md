@@ -27,88 +27,19 @@
 
 ## 我们相信
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<div align="center">
-<img src="assets/icon-local.svg" width="38" alt="">
-<h3>数据留在本机</h3>
-<p>文档、录音、浏览记录默认写入本地数据库，断网也能用。没有账号体系，也没有“已同步到云端”。</p>
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<img src="assets/icon-model.svg" width="38" alt="">
-<h3>模型由你指定</h3>
-<p>自带 API Key，或接本机 Ollama。内容只发往你选定的服务，不经过若道的服务器。</p>
-</div>
-</td>
-<td width="33%" valign="top">
-<div align="center">
-<img src="assets/icon-open.svg" width="38" alt="">
-<h3>开源可审计</h3>
-<p>全部仓库以 MIT 开源，没有隐藏的云端依赖，安全相关逻辑可逐行核对。</p>
-</div>
-</td>
-</tr>
-</table>
+| <img src="assets/icon-local.svg" width="34" alt=""> | <img src="assets/icon-model.svg" width="34" alt=""> | <img src="assets/icon-open.svg" width="34" alt=""> |
+| :---: | :---: | :---: |
+| **数据留在本机** | **模型由你指定** | **开源可审计** |
+| 文档、录音、浏览记录默认写入本地数据库，断网也能用。没有账号体系，也没有“已同步到云端”。 | 自带 API Key，或接本机 Ollama。内容只发往你选定的服务，不经过若道的服务器。 | 全部仓库以 MIT 开源，没有隐藏的云端依赖，安全相关逻辑可逐行核对。 |
 
 ## 旗舰产品
 
-<table width="100%">
-<thead>
-<tr>
-<th width="56%" align="left">产品</th>
-<th width="44%" align="center">界面</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td width="56%" valign="middle">
-<h3>若道办公 <sub>Ruodao Office</sub></h3>
-<p>文档、表格、PDF 工具箱、双链笔记与格式转换，收进一个安静的工作台。中英双语，导出不二次收费。</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-office">仓库</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-office/releases/latest">下载</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-office"><img src="assets/screenshots/office.png" width="100%" alt="若道办公工作台"></a>
-</td>
-</tr>
-<tr>
-<td width="56%" valign="middle">
-<h3>若道安全卫士 <sub>Ruodao Guard</sub></h3>
-<p>电脑体检、木马查杀、垃圾清理、软件管家、驱动管理、加速中心与系统修复。不装驱动、不驻留后台。</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-guard-desktop">仓库</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-guard-desktop/releases/latest">下载</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-guard-desktop"><img src="assets/screenshots/guard.png" width="100%" alt="若道安全卫士体检报告"></a>
-</td>
-</tr>
-<tr>
-<td width="56%" valign="middle">
-<h3>若道远程 <sub>Ruodao Remote</sub></h3>
-<p>免注册的 Windows 桌面远控：9 位遥控码 + 10 位密钥，端到端加密 WebRTC，可自建信令服务与共享服务器。</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-remote">仓库</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-remote/releases/latest">下载</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-remote"><img src="assets/screenshots/remote.png" width="100%" alt="若道远程连接界面"></a>
-</td>
-</tr>
-<tr>
-<td width="56%" valign="middle">
-<h3>若道浏览器 <sub>Ruodao Browser</sub></h3>
-<p>基于 Electron 与 Chromium 的 AI 桌面浏览器，内置若道 AI 侧边栏：总结、解释、翻译、改写当前网页，支持独立多开环境。</p>
-<p><code>Windows 10/11</code> &nbsp; <code>MIT</code></p>
-<p><a href="https://github.com/ruodaoai/ruodao-browser">仓库</a> &nbsp;·&nbsp; <a href="https://github.com/ruodaoai/ruodao-browser/releases/latest">下载</a></p>
-</td>
-<td width="44%" valign="middle">
-<a href="https://github.com/ruodaoai/ruodao-browser"><img src="assets/screenshots/browser.png" width="100%" alt="若道浏览器 AI 侧边栏"></a>
-</td>
-</tr>
-</tbody>
-</table>
+| 产品 | 界面 |
+| :--- | :---: |
+| <br>**若道办公** <sub>Ruodao Office</sub><br><br>文档、表格、PDF 工具箱、双链笔记与格式转换，收进一个安静的工作台。中英双语，导出不二次收费。<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[仓库](https://github.com/ruodaoai/ruodao-office) &nbsp;·&nbsp; [下载](https://github.com/ruodaoai/ruodao-office/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-office"><img src="assets/screenshots/office.png" width="380" alt="若道办公工作台"></a> |
+| <br>**若道安全卫士** <sub>Ruodao Guard</sub><br><br>电脑体检、木马查杀、垃圾清理、软件管家、驱动管理、加速中心与系统修复。不装驱动、不驻留后台。<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[仓库](https://github.com/ruodaoai/ruodao-guard-desktop) &nbsp;·&nbsp; [下载](https://github.com/ruodaoai/ruodao-guard-desktop/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-guard-desktop"><img src="assets/screenshots/guard.png" width="380" alt="若道安全卫士体检报告"></a> |
+| <br>**若道远程** <sub>Ruodao Remote</sub><br><br>免注册的 Windows 桌面远控：9 位遥控码 + 10 位密钥，端到端加密 WebRTC，可自建信令服务与共享服务器。<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[仓库](https://github.com/ruodaoai/ruodao-remote) &nbsp;·&nbsp; [下载](https://github.com/ruodaoai/ruodao-remote/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-remote"><img src="assets/screenshots/remote.png" width="380" alt="若道远程连接界面"></a> |
+| <br>**若道浏览器** <sub>Ruodao Browser</sub><br><br>基于 Electron 与 Chromium 的 AI 桌面浏览器，内置若道 AI 侧边栏：总结、解释、翻译、改写当前网页，支持独立多开环境。<br><br>`Windows 10/11` &nbsp; `MIT`<br><br>[仓库](https://github.com/ruodaoai/ruodao-browser) &nbsp;·&nbsp; [下载](https://github.com/ruodaoai/ruodao-browser/releases/latest) | <a href="https://github.com/ruodaoai/ruodao-browser"><img src="assets/screenshots/browser.png" width="380" alt="若道浏览器 AI 侧边栏"></a> |
 
 ## 插件生态
 
