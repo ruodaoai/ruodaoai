@@ -31,7 +31,7 @@
 
 | <img src="assets/icon-local.svg" width="34" alt=""> | <img src="assets/icon-model.svg" width="34" alt=""> | <img src="assets/icon-open.svg" width="34" alt=""> |
 | :---: | :---: | :---: |
-| **数据留在本机** | **模型由你指定** | **开源可审计** |
+| **本地优先** | **模型自选** | **源码可审** |
 | 文档、录音与浏览记录写入本地数据库，断网也能用。无账号体系，不上传云端。 | 自带 API Key 或本机 Ollama，内容只发往你选定的服务。 | 全部仓库 MIT 开源，无隐藏云端依赖，可逐行核对。 |
 
 ## 旗舰产品

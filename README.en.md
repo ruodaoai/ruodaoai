@@ -31,7 +31,7 @@ Local-first Windows desktop products and an open-source plugin ecosystem.
 
 | <img src="assets/icon-local.svg" width="34" alt=""> | <img src="assets/icon-model.svg" width="34" alt=""> | <img src="assets/icon-open.svg" width="34" alt=""> |
 | :---: | :---: | :---: |
-| **Data stays local** | **Bring your own model** | **Open and auditable** |
+| **Local-first** | **Your model** | **Open source** |
 | Documents, recordings and history live in a local database and work offline. No accounts, nothing uploaded. | Use your own API key or local Ollama; content only reaches the service you pick. | Every repo is MIT licensed with no hidden cloud dependency. |
 
 ## Flagship products
