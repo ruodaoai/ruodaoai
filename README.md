@@ -1,6 +1,8 @@
 <div align="center">
 
 <picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 500px)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="若道 AI — 把 AI 装进桌面，把数据留在本机" width="100%">
 </picture>
@@ -30,7 +32,7 @@
 | <img src="assets/icon-local.svg" width="34" alt=""> | <img src="assets/icon-model.svg" width="34" alt=""> | <img src="assets/icon-open.svg" width="34" alt=""> |
 | :---: | :---: | :---: |
 | **数据留在本机** | **模型由你指定** | **开源可审计** |
-| 文档、录音、浏览记录默认写入本地数据库，断网也能用。没有账号体系，也没有“已同步到云端”。 | 自带 API Key，或接本机 Ollama。内容只发往你选定的服务，不经过若道的服务器。 | 全部仓库以 MIT 开源，没有隐藏的云端依赖，安全相关逻辑可逐行核对。 |
+| 文档、录音与浏览记录写入本地数据库，断网也能用。无账号体系，不上传云端。 | 自带 API Key 或本机 Ollama，内容只发往你选定的服务。 | 全部仓库 MIT 开源，无隐藏云端依赖，可逐行核对。 |
 
 ## 旗舰产品
 

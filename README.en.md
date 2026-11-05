@@ -1,6 +1,8 @@
 <div align="center">
 
 <picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 500px)" srcset="assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="Ruodao AI — AI on your desktop, data on your machine" width="100%">
 </picture>
@@ -30,7 +32,7 @@ Local-first Windows desktop products and an open-source plugin ecosystem.
 | <img src="assets/icon-local.svg" width="34" alt=""> | <img src="assets/icon-model.svg" width="34" alt=""> | <img src="assets/icon-open.svg" width="34" alt=""> |
 | :---: | :---: | :---: |
 | **Data stays local** | **Bring your own model** | **Open and auditable** |
-| Documents, recordings and browsing history are written to a local database and work offline. No accounts, no “synced to the cloud”. | Use your own API key or a local Ollama instance. Content only goes to the service you choose, never through Ruodao servers. | Every repository is MIT licensed with no hidden cloud dependency, including the security-sensitive code. |
+| Documents, recordings and history live in a local database and work offline. No accounts, nothing uploaded. | Use your own API key or local Ollama; content only reaches the service you pick. | Every repo is MIT licensed with no hidden cloud dependency. |
 
 ## Flagship products
 
